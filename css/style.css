@@ -986,7 +986,7 @@ a:focus {
         'opsz'48
 }
 p{
-  color: white;
+  /* color: white; */
   font-size: 0.8rem;
   text-align: center; 
   margin-top: 1rem;
@@ -1062,4 +1062,35 @@ a:hover{
     color: #FFF;
 }
 
+/*  */
+
+.content {
+  padding: 20px;
+}
+
+.section_description {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.reasons p {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.enquire_button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #e45441;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.enquire_button:hover {
+  background-color: #3a3f58;
+}
 
