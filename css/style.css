@@ -120,7 +120,7 @@ h2 {
 .custom_menu-btn.menu_btn-style::before {
   width: 100vh;
   height: 100vh;
-  background-color: #3a3f58;
+  background-color: black;
   -webkit-transform: scale(5);
           transform: scale(5);
   border-radius: 0;
@@ -317,7 +317,7 @@ a:focus {
 }
 
 .slider_section .detail-box .inner_detail-box {
-  background-color: rgba(58, 63, 88, 0.8);
+  background-color: black;
   color: #ffffff;
   padding: 45px;
   border-radius: 5px;
@@ -371,8 +371,8 @@ a:focus {
   opacity: 1;
   border-radius: 5px;
   font-size: 12px;
-  background-color: #e45441;
-  color: white;
+  background-color: white;
+  color: black;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -415,17 +415,17 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #3a3f58;
+  background-color: black;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #3a3f58;
+  border: 1px solid black;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #3a3f58;
+  color: black;
 }
 
 .gallery_section {
@@ -560,7 +560,7 @@ a:focus {
 }
 
 .service_section .box .detail-box {
-  background-color: #3a3f58;
+  background-color: black;
   color: #ffffff;
   padding: 97.5px 25px 25px 25px;
 }
@@ -644,17 +644,17 @@ a:focus {
 .blog_section .box .detail-box a {
   display: inline-block;
   padding: 7px 20px;
-  background-color: #3a3f58;
+  background-color: black;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #3a3f58;
+  border: 1px solid black;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .blog_section .box .detail-box a:hover {
   background-color: transparent;
-  color: #3a3f58;
+  color: black;
 }
 
 .client_section .heading_container {
@@ -704,7 +704,7 @@ a:focus {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  background-color: #3a3f58;
+  background-color: black;
   padding: 112.5px 25px 25px 25px;
   color: #ffffff;
 }
@@ -747,7 +747,7 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #3a3f58;
+  background-color: black;
 }
 
 .client_section .carousel-control-next {
@@ -905,7 +905,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #262939;
+  background-color: black;
   color: #ffffff;
   padding: 165px 0 75px 0;
 }
