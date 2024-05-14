@@ -388,6 +388,8 @@ a:focus {
 }
 
 .about_section .row {
+ 
+
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -396,8 +398,16 @@ a:focus {
 .about_section .img-box img {
   width: 100%;
 }
+.about_section .detail-box  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center ;
+
+}
 
 .about_section .detail-box p {
+
   margin-top: 10px;
   margin-bottom: 35px;
 }
